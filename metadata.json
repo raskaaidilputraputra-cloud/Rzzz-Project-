@@ -1,0 +1,6 @@
+{
+  "name": "RzzHD — AI Photo & Video Enhancer",
+  "description": "Make Every Moment HD with AI. Tingkatkan kualitas foto dan video menjadi jernih, tajam, dan berkualitas HD dengan pengalaman modern seperti Wink.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
